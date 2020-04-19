@@ -12,8 +12,8 @@ namespace Quantum.Kata.SingleQubitGates {
     open Microsoft.Quantum.Math;
     
     // Exercise 1.
-    operation ApplyY (q : Qubit) : Unit is Adj+Ctl {
+    //operation ApplyY (qubitRegister : Qubit[]) : Unit is Adj+Ctl {
         // ...
 
-    }
+    //}
 }

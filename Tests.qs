@@ -47,9 +47,10 @@ namespace Quantum.Kata.SingleQubitGates {
     }
 
     // Exercise 1.
-    operation T1_ApplyY_Test () : Unit {
-        AssertOperationsEqualReferenced(2, ControlledArrayWrapperOperation(ApplyY, _), ControlledArrayWrapperOperation(Y, _));
-    }
+    //operation T1_ApplyY_Test () : Unit {
+        //AssertOperationsEqualReferenced(2, ControlledArrayWrapperOperation(ApplyY, _), ControlledArrayWrapperOperation(Y, _));
+        
+    //}
 
 
 }
